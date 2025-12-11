@@ -1,4 +1,5 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Date: 2-10-2025
 # NAME : SWETHA R
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
